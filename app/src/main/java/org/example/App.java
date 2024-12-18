@@ -12,7 +12,7 @@ public class App {
         System.out.println(new App().getGreeting());
     }
 }
-public class App {
+
     public static void main(String[] args) {
         Book book1 = new Book("Bobsy King", "Harper Lee", 1960);
         Book book2 = new Book("Nonlon lorryes", "Nerly Bob", 1949);
