@@ -10,10 +10,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
-    }
-}
 
-    public static void main(String[] args) {
         Book book1 = new Book("Bobsy King", "Harper Lee", 1960);
         Book book2 = new Book("Nonlon lorryes", "Nerly Bob", 1949);
         Book book3 = new Book("Mood setter", "Herman Melville", 1851);
